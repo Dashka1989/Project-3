@@ -2,17 +2,17 @@
 
 ## Оглавление
 
-[1. Описание проекта] (https://github.com/Dashka1989/Project-3/new/main?filename=README.md#Описание-проекта)
+[1. Описание проекта] (<a name="описание-проекта"></a>)
 
-[2. Какой кейс решаем?] (https://github.com/Dashka1989/Project-3/new/main?filename=README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?] (#какой-кейс-решаем?)
 
-[3. Этапы работы над проектом] (https://github.com/Dashka1989/Project-3/new/main?filename=README.md#Этапы-работы-над-проектом)
+[3. Этапы работы над проектом] (#этапы-работы-над-проектом)
 
-[4. Результат] (https://github.com/Dashka1989/Project-3/new/main?filename=README.md#Результат)
+[4. Результат] (#результат)
 
-[5. Выводы] (https://github.com/Dashka1989/Project-3/new/main?filename=README.md#Выводы)
+[5. Выводы] (#выводы)
 
-### Описание проекта 
+### Описание проекта (#описание-проекта) 
 Изучение данных сайта Booking на основе имеющихся в датасете данных. Каждая часть состоить из блока практических заданий, которые выполнены в jupyter-ноутбуе. Задания выполняются последовательно.
 
 :arrow_up:[к оглавлению](https://github.com/Dashka1989/Project-3/new/main?filename=README.md#Оглавление)
