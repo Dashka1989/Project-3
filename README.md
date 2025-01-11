@@ -3,10 +3,15 @@
 ##Оглавление
 
 [1. Описание проекта] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Описание проекта)
+
 [2. Какой кейс решаем?] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Какой кейс решаем?)
+
 [3. Этапы работы над проектом] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Этапы работы над проектом)
+
 [4. Краткая информация о данных] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Краткая информация о данных)
+
 [5. Результат] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Результат)
+
 [6. Выводы] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Выводы)
 
 ###Описание проекта 
