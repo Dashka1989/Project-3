@@ -8,11 +8,9 @@
 
 [3. Этапы работы над проектом] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Этапы-работы-над-проектом)
 
-[4. Краткая информация о данных] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Краткая-информация-о-данных)
+[4. Результат] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Результат)
 
-[5. Результат] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Результат)
-
-[6. Выводы] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Выводы)
+[5. Выводы] (https://github.com/Dashka1989/Project-3/edit/main/README.md#Выводы)
 
 ### Описание проекта 
 Изучение данных сайта Booking на основе имеющихся в датасете данных. Каждая часть состоить из блока практических заданий, которые выполнены в jupyter-ноутбуе. Задания выполняются последовательно.
@@ -27,11 +25,6 @@
 ### Этапы работы над проектом
 Проект состоит из трех частей:
 ЗАГРУЗКА ДАННЫХ И ПОВЕРХНОСТОЕ ЗНАКОМСТВО, ПРЕОБРАЗОВАНИЕ ДАТАСЕТА, Корреляция. Мультиколлинеарность
-
-:arrow_up:[к оглавлению](https://github.com/Dashka1989/Project-3/edit/main/README.md#Оглавление)
-
-### Краткая информация о данных
-Ссылки на базы данных можно найти в конце файла .gitignore
 
 :arrow_up:[к оглавлению](https://github.com/Dashka1989/Project-3/edit/main/README.md#Оглавление)
 
